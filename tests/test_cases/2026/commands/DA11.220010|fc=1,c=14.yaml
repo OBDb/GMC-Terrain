@@ -1,0 +1,5 @@
+command_id: DA11.220010|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_MAF: 0
+  response: 142AF111056200100000

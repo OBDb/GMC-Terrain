@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2230A9|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_DPF_EGT_3: 0
+  response: 142AF111056230A90190
