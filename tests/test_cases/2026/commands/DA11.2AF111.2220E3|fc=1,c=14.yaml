@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     GMC_BP_ACT: 0.06
   response: 142AF111056220E30006
+- expected_values:
+    GMC_BP_ACT: 0.8
+  response: 142AF111056220E30050
+- expected_values:
+    GMC_BP_ACT: 0.9
+  response: 142AF111056220E3005A
+- expected_values:
+    GMC_BP_ACT: 3.38
+  response: 142AF111056220E30152
