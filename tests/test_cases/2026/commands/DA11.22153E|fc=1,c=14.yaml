@@ -1,0 +1,5 @@
+command_id: DA11.22153E|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_EOT_V2: 0
+  response: 142AF1110462153E00
