@@ -4,5 +4,5 @@ test_cases:
     GMC_TFT: 55
   response: 142AF118046219405F
 - expected_values:
-    GMC_TFT: 71
-  response: 142AF118046219406F
+    GMC_TFT: 80
+  response: 142AF1180462194078
