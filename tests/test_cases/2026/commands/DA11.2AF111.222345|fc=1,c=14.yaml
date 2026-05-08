@@ -7,5 +7,11 @@ test_cases:
     GMC_EOP_ACT: 212
   response: 142AF1110462234535
 - expected_values:
+    GMC_EOP_ACT: 216
+  response: 142AF1110462234536
+- expected_values:
+    GMC_EOP_ACT: 220
+  response: 142AF1110462234537
+- expected_values:
     GMC_EOP_ACT: 240
   response: 142AF111046223453C
