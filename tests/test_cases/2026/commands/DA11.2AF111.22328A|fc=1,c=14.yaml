@@ -4,11 +4,11 @@ test_cases:
     GMC_BP_DES: 27.09
   response: 142AF1110562328A0A95
 - expected_values:
-    GMC_BP_DES: 43.38
-  response: 142AF1110562328A10F2
+    GMC_BP_DES: 43.48
+  response: 142AF1110562328A10FC
 - expected_values:
-    GMC_BP_DES: 61.73
-  response: 142AF1110562328A181D
+    GMC_BP_DES: 46.14
+  response: 142AF1110562328A1206
 - expected_values:
     GMC_BP_DES: 118.72
   response: 142AF1110562328A2E60

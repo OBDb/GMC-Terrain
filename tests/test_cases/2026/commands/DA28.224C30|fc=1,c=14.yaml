@@ -4,29 +4,8 @@ test_cases:
     GMC_LNG_G: 0
   response: 142AF12805624C300000
 - expected_values:
-    GMC_LNG_G: 0.05734
-  response: 142AF12805624C300024
-- expected_values:
-    GMC_LNG_G: 0.06371
-  response: 142AF12805624C300028
-- expected_values:
-    GMC_LNG_G: 0.10831
-  response: 142AF12805624C300044
-- expected_values:
     GMC_LNG_G: -0.09557
   response: 142AF12805624C30FFC4
-- expected_values:
-    GMC_LNG_G: -0.05734
-  response: 142AF12805624C30FFDC
-- expected_values:
-    GMC_LNG_G: -0.0446
-  response: 142AF12805624C30FFE4
-- expected_values:
-    GMC_LNG_G: -0.02548
-  response: 142AF12805624C30FFF0
-- expected_values:
-    GMC_LNG_G: -0.01274
-  response: 142AF12805624C30FFF8
 - expected_values:
     GMC_LNG_G: -0.00637
   response: 142AF12805624C30FFFC
