@@ -1,29 +1,14 @@
 command_id: DA11.2AF111.22328A|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_BP_DES: 45.6
-  response: 142AF1110562328A11D0
+    GMC_BP_DES: 27.09
+  response: 142AF1110562328A0A95
 - expected_values:
-    GMC_BP_DES: 46.61
-  response: 142AF1110562328A1235
+    GMC_BP_DES: 43.38
+  response: 142AF1110562328A10F2
 - expected_values:
     GMC_BP_DES: 61.73
   response: 142AF1110562328A181D
-- expected_values:
-    GMC_BP_DES: 61.74
-  response: 142AF1110562328A181E
-- expected_values:
-    GMC_BP_DES: 66.36
-  response: 142AF1110562328A19EC
-- expected_values:
-    GMC_BP_DES: 67.27
-  response: 142AF1110562328A1A47
-- expected_values:
-    GMC_BP_DES: 77.95
-  response: 142AF1110562328A1E73
-- expected_values:
-    GMC_BP_DES: 96.81
-  response: 142AF1110562328A25D1
 - expected_values:
     GMC_BP_DES: 118.72
   response: 142AF1110562328A2E60
