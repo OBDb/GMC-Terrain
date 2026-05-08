@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.22328A|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_BP_DES: 27.09
-  response: 142AF1110562328A0A95
+    GMC_BP_DES: 25.84
+  response: 142AF1110562328A0A18
 - expected_values:
     GMC_BP_DES: 43.48
   response: 142AF1110562328A10FC
