@@ -9,9 +9,17 @@ test_cases:
     GMC_GEAR: D1
   response: 142AF11804621B3004
 - expected_values:
+    GMC_CURRENT_GEAR: 3
+    GMC_GEAR: D3
+  response: 142AF11804621B3006
+- expected_values:
     GMC_CURRENT_GEAR: 4
     GMC_GEAR: D4
   response: 142AF11804621B3007
+- expected_values:
+    GMC_CURRENT_GEAR: 5
+    GMC_GEAR: D5
+  response: 142AF11804621B3008
 - expected_values:
     GMC_CURRENT_GEAR: 6
     GMC_GEAR: D6
