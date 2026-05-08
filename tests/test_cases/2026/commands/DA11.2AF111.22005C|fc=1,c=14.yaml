@@ -4,26 +4,5 @@ test_cases:
     GMC_EOT: 65
   response: 142AF1110462005C69
 - expected_values:
-    GMC_EOT: 72
-  response: 142AF1110462005C70
-- expected_values:
-    GMC_EOT: 75
-  response: 142AF1110462005C73
-- expected_values:
-    GMC_EOT: 77
-  response: 142AF1110462005C75
-- expected_values:
-    GMC_EOT: 79
-  response: 142AF1110462005C77
-- expected_values:
-    GMC_EOT: 81
-  response: 142AF1110462005C79
-- expected_values:
-    GMC_EOT: 82
-  response: 142AF1110462005C7A
-- expected_values:
-    GMC_EOT: 83
-  response: 142AF1110462005C7B
-- expected_values:
     GMC_EOT: 84
   response: 142AF1110462005C7C

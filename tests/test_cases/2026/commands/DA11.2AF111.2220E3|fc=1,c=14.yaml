@@ -4,26 +4,5 @@ test_cases:
     GMC_BP_ACT: 0
   response: 142AF111056220E30000
 - expected_values:
-    GMC_BP_ACT: 0.03
-  response: 142AF111056220E30003
-- expected_values:
-    GMC_BP_ACT: 0.06
-  response: 142AF111056220E30006
-- expected_values:
-    GMC_BP_ACT: 0.39
-  response: 142AF111056220E30027
-- expected_values:
-    GMC_BP_ACT: 0.8
-  response: 142AF111056220E30050
-- expected_values:
-    GMC_BP_ACT: 0.9
-  response: 142AF111056220E3005A
-- expected_values:
-    GMC_BP_ACT: 1.27
-  response: 142AF111056220E3007F
-- expected_values:
-    GMC_BP_ACT: 3.38
-  response: 142AF111056220E30152
-- expected_values:
     GMC_BP_ACT: 9.87
   response: 142AF111056220E303DB

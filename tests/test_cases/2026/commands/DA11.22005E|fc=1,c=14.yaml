@@ -4,20 +4,5 @@ test_cases:
     GMC_FUEL_RATE: 0
   response: 142AF1110562005E0000
 - expected_values:
-    GMC_FUEL_RATE: 1.4
-  response: 142AF1110562005E001C
-- expected_values:
-    GMC_FUEL_RATE: 1.55
-  response: 142AF1110562005E001F
-- expected_values:
-    GMC_FUEL_RATE: 2.25
-  response: 142AF1110562005E002D
-- expected_values:
-    GMC_FUEL_RATE: 2.75
-  response: 142AF1110562005E0037
-- expected_values:
-    GMC_FUEL_RATE: 3.5
-  response: 142AF1110562005E0046
-- expected_values:
     GMC_FUEL_RATE: 8.3
   response: 142AF1110562005E00A6

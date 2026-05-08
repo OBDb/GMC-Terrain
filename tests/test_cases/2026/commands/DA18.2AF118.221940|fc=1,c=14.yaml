@@ -13,8 +13,17 @@ test_cases:
     GMC_TFT: 63
   response: 142AF1180462194067
 - expected_values:
+    GMC_TFT: 64
+  response: 142AF1180462194068
+- expected_values:
     GMC_TFT: 65
   response: 142AF1180462194069
+- expected_values:
+    GMC_TFT: 66
+  response: 142AF118046219406A
+- expected_values:
+    GMC_TFT: 69
+  response: 142AF118046219406D
 - expected_values:
     GMC_TFT: 70
   response: 142AF118046219406E

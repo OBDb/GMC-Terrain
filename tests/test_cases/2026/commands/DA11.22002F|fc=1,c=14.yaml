@@ -5,30 +5,6 @@ test_cases:
     GMC_FLI: 13.72549
   response: 142AF1110462002F23
 - expected_values:
-    GMC_AUX_V: 4.2
-    GMC_FLI: 16.47059
-  response: 142AF1110462002F2A
-- expected_values:
-    GMC_AUX_V: 5.3
-    GMC_FLI: 20.78431
-  response: 142AF1110462002F35
-- expected_values:
-    GMC_AUX_V: 19
-    GMC_FLI: 74.5098
-  response: 142AF1110462002FBE
-- expected_values:
-    GMC_AUX_V: 19.1
-    GMC_FLI: 74.90196
-  response: 142AF1110462002FBF
-- expected_values:
-    GMC_AUX_V: 19.4
-    GMC_FLI: 76.07843
-  response: 142AF1110462002FC2
-- expected_values:
-    GMC_AUX_V: 20.2
-    GMC_FLI: 79.21569
-  response: 142AF1110462002FCA
-- expected_values:
     GMC_AUX_V: 21
     GMC_FLI: 82.35294
   response: 142AF1110462002FD2
