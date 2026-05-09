@@ -1,6 +1,9 @@
 command_id: DA11.2AF111.224DC0|fc=1,c=14
 test_cases:
 - expected_values:
+    GMC_EO_LIFE_REMAINING: 90.58824
+  response: 142AF11104624DC0E7
+- expected_values:
     GMC_EO_LIFE_REMAINING: 90.98039
   response: 142AF11104624DC0E8
 - expected_values:

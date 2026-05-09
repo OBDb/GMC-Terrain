@@ -5,6 +5,10 @@ test_cases:
     GMC_GEAR: PARK
   response: 142AF11804621B3002
 - expected_values:
+    GMC_CURRENT_GEAR: 0
+    GMC_GEAR: REVERSE
+  response: 142AF11804621B3003
+- expected_values:
     GMC_CURRENT_GEAR: 1
     GMC_GEAR: D1
   response: 142AF11804621B3004
