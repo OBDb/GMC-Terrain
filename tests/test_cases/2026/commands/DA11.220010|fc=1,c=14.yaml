@@ -7,5 +7,5 @@ test_cases:
     GMC_MAF: 2.41
   response: 142AF1110562001000F1
 - expected_values:
-    GMC_MAF: 15.36
-  response: 142AF111056200100600
+    GMC_MAF: 19.17
+  response: 142AF11105620010077D
