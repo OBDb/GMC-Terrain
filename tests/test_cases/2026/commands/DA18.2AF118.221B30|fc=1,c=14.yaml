@@ -24,3 +24,7 @@ test_cases:
     GMC_CURRENT_GEAR: 6
     GMC_GEAR: D6
   response: 142AF11804621B3009
+- expected_values:
+    GMC_CURRENT_GEAR: 7
+    GMC_GEAR: D7
+  response: 142AF11804621B300A
