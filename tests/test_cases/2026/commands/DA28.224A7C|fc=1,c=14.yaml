@@ -19,6 +19,9 @@ test_cases:
     GMC_BP: 1200
   response: 142AF12804624A7C16
 - expected_values:
+    GMC_BP: 1300
+  response: 142AF12804624A7C17
+- expected_values:
     GMC_BP: 1500
   response: 142AF12804624A7C19
 - expected_values:
