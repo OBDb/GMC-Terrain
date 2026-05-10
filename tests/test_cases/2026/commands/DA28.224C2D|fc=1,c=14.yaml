@@ -4,8 +4,8 @@ test_cases:
     GMC_STEER_ANGLE: 0
   response: 142AF12805624C2D0000
 - expected_values:
-    GMC_STEER_ANGLE: -5.698
-  response: 142AF12805624C2DFEFD
-- expected_values:
     GMC_STEER_ANGLE: -5.192
   response: 142AF12805624C2DFF14
+- expected_values:
+    GMC_STEER_ANGLE: -0.044
+  response: 142AF12805624C2DFFFE
