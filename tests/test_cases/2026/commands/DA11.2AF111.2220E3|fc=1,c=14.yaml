@@ -1,11 +1,11 @@
 command_id: DA11.2AF111.2220E3|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_BP_ACT: 0
+    TERRAIN_BOOST_P_ACT: 0
   response: 142AF111056220E30000
 - expected_values:
-    GMC_BP_ACT: 10.06
+    TERRAIN_BOOST_P_ACT: 10.06
   response: 142AF111056220E303EE
 - expected_values:
-    GMC_BP_ACT: 10.7
+    TERRAIN_BOOST_P_ACT: 10.7
   response: 142AF111056220E3042E

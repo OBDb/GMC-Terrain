@@ -1,5 +1,5 @@
 command_id: DA11.2AF111.221470|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_EOP: 0
+    TERRAIN_EOP_DA11_2: 0
   response: 142AF1110462147000

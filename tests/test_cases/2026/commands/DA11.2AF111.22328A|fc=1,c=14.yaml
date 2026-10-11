@@ -1,14 +1,14 @@
 command_id: DA11.2AF111.22328A|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_BP_DES: 25.84
+    TERRAIN_BOOST_P_DES: 25.84
   response: 142AF1110562328A0A18
 - expected_values:
-    GMC_BP_DES: 43.48
+    TERRAIN_BOOST_P_DES: 43.48
   response: 142AF1110562328A10FC
 - expected_values:
-    GMC_BP_DES: 46.14
+    TERRAIN_BOOST_P_DES: 46.14
   response: 142AF1110562328A1206
 - expected_values:
-    GMC_BP_DES: 118.72
+    TERRAIN_BOOST_P_DES: 118.72
   response: 142AF1110562328A2E60
