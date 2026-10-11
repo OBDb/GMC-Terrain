@@ -1,8 +1,8 @@
 command_id: DA11.22005E|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_FUEL_RATE: 0
+    TERRAIN_FUEL_CONS_RATE: 0
   response: 142AF1110562005E0000
 - expected_values:
-    GMC_FUEL_RATE: 8.3
+    TERRAIN_FUEL_CONS_RATE: 8.3
   response: 142AF1110562005E00A6

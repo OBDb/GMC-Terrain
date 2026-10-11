@@ -1,32 +1,32 @@
 command_id: DA28.224A7C|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_BP: 0
+    TERRAIN_BP: 0
   response: 142AF12804624A7C0A
 - expected_values:
-    GMC_BP: 400
+    TERRAIN_BP: 400
   response: 142AF12804624A7C0E
 - expected_values:
-    GMC_BP: 600
+    TERRAIN_BP: 600
   response: 142AF12804624A7C10
 - expected_values:
-    GMC_BP: 700
+    TERRAIN_BP: 700
   response: 142AF12804624A7C11
 - expected_values:
-    GMC_BP: 900
+    TERRAIN_BP: 900
   response: 142AF12804624A7C13
 - expected_values:
-    GMC_BP: 1200
+    TERRAIN_BP: 1200
   response: 142AF12804624A7C16
 - expected_values:
-    GMC_BP: 1300
+    TERRAIN_BP: 1300
   response: 142AF12804624A7C17
 - expected_values:
-    GMC_BP: 1500
+    TERRAIN_BP: 1500
   response: 142AF12804624A7C19
 - expected_values:
-    GMC_BP: 2200
+    TERRAIN_BP: 2200
   response: 142AF12804624A7C20
 - expected_values:
-    GMC_BP: 2800
+    TERRAIN_BP: 2800
   response: 142AF12804624A7C26
