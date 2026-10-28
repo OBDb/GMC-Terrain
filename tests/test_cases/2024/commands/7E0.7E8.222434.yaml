@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.222434
+test_cases:
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 43
+  response: '7E8056224345831'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 48
+  response: '7E8056224345836'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 50
+  response: '7E8056224345838'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 53
+  response: 7E805622434583B
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 60
+  response: '7E8056224345842'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 62
+  response: '7E8056224345844'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 65
+  response: '7E8056224345847'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 67
+  response: '7E8056224345849'
+- expected_values:
+    TERRAIN_ECM_AXLE_TQ_DRIVER_REQ: 71
+  response: 7E805622434584D

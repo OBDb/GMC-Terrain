@@ -1,0 +1,5 @@
+command_id: 241.641.225006
+test_cases:
+- expected_values:
+    TERRAIN_TP_FR_241: 211.75
+  response: 641056250060D3C

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.223812
+test_cases:
+- expected_values:
+    TERRAIN_COOLING_FAN_CMD: 10.98039
+  response: 7E8046238121C
+- expected_values:
+    TERRAIN_COOLING_FAN_CMD: 11.37255
+  response: 7E8046238121D

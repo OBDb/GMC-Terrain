@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.222434
+test_cases:
+- expected_values:
+    TERRAIN_AXLE_TQ_DRIVER_REQ: 400
+  response: 7EA056224345996

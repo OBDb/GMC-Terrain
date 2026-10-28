@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.222862
+test_cases:
+- expected_values:
+    TERRAIN_TRANS_P: 9600
+  response: 7EA056228622580

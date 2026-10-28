@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.2219D4
+test_cases:
+- expected_values:
+    TERRAIN_CLU_SLIP_C3_RING: 1567.75
+  response: 7EA056219D4187F
+- expected_values:
+    TERRAIN_CLU_SLIP_C3_RING: 1572.75
+  response: 7EA056219D41893
+- expected_values:
+    TERRAIN_CLU_SLIP_C3_RING: 1576
+  response: 7EA056219D418A0

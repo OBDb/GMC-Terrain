@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221991|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_TC_SLIP_VSS: 27.625
+  response: 7EA0562199100DD
+- expected_values:
+    TERRAIN_TC_SLIP_VSS: 28.25
+  response: 7EA0562199100E2
+- expected_values:
+    TERRAIN_TC_SLIP_VSS: 29.125
+  response: 7EA0562199100E9

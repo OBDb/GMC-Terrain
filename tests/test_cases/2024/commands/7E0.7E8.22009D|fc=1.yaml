@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22009D|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_TOTAL_FUEL_CONSUMPTION_RATE: 0.18
+  response: 7E80762009D00090009
+- expected_values:
+    TERRAIN_TOTAL_FUEL_CONSUMPTION_RATE: 0.2
+  response: 7E80762009D000A000A
+- expected_values:
+    TERRAIN_TOTAL_FUEL_CONSUMPTION_RATE: 0.22
+  response: 7E80762009D000B000B
