@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22005E|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_FUEL_RATE: 0.95
+  response: 7E80562005E0013
+- expected_values:
+    TERRAIN_FUEL_RATE: 1
+  response: 7E80562005E0014
+- expected_values:
+    TERRAIN_FUEL_RATE: 1.05
+  response: 7E80562005E0015

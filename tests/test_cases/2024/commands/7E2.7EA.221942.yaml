@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.221942
+test_cases:
+- expected_values:
+    TERRAIN_OUTPUT_SHFT_SPD: 0
+  response: 7EA056219420000

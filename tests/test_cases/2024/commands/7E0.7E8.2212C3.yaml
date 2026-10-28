@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    TERRAIN_INJECTOR_DUTY_CYCLE_BANK_1: 0.84
+  response: 7E8056212C30038
+- expected_values:
+    TERRAIN_INJECTOR_DUTY_CYCLE_BANK_1: 0.855
+  response: 7E8056212C30039
+- expected_values:
+    TERRAIN_INJECTOR_DUTY_CYCLE_BANK_1: 0.87
+  response: 7E8056212C3003A

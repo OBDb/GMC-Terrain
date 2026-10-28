@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221124
+test_cases:
+- expected_values:
+    TERRAIN_ECM_BRAKE_PEDAL_POS: 81
+  response: '7E80462112451'

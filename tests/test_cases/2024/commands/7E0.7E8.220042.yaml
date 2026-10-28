@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    TERRAIN_M_CTRL_MODULE_V: 13.519
+  response: 7E80562004234CF
+- expected_values:
+    TERRAIN_M_CTRL_MODULE_V: 13.54
+  response: 7E80562004234E4
+- expected_values:
+    TERRAIN_M_CTRL_MODULE_V: 13.546
+  response: 7E80562004234EA
+- expected_values:
+    TERRAIN_M_CTRL_MODULE_V: 13.553
+  response: 7E80562004234F1

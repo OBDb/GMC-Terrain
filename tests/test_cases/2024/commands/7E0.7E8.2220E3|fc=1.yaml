@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220E3|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_BP_ACT: 0.2
+  response: 7E8056220E30014
+- expected_values:
+    TERRAIN_BP_ACT: 0.21
+  response: 7E8056220E30015
+- expected_values:
+    TERRAIN_BP_ACT: 0.24
+  response: 7E8056220E30018

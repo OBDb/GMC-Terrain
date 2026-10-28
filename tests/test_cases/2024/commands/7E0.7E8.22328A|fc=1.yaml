@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22328A|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_BP_DES: 32.33
+  response: 7E80562328A0CA1
+- expected_values:
+    TERRAIN_BP_DES: 32.44
+  response: 7E80562328A0CAC
+- expected_values:
+    TERRAIN_BP_DES: 32.51
+  response: 7E80562328A0CB3
+- expected_values:
+    TERRAIN_BP_DES: 33.27
+  response: 7E80562328A0CFF

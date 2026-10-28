@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22247A
+test_cases:
+- expected_values:
+    TERRAIN_HOOD_SWITCH: 1.52941
+  response: 7E80462247A4E
+- expected_values:
+    TERRAIN_HOOD_SWITCH: 1.54902
+  response: 7E80462247A4F

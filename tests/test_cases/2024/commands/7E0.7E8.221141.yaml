@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221141
+test_cases:
+- expected_values:
+    TERRAIN_IGN_1_V: 13.5
+  response: '7E80462114187'

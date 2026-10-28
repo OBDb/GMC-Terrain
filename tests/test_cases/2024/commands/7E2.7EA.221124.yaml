@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.221124
+test_cases:
+- expected_values:
+    TERRAIN_BRAKE_PEDAL_POS: 0
+  response: 7EA0462112400

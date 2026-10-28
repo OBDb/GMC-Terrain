@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.2219A1
+test_cases:
+- expected_values:
+    TERRAIN_GEAR_RAT: 255
+  response: 7EA046219A1FF

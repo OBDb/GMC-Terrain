@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22207E
+test_cases:
+- expected_values:
+    TERRAIN_IGN_POWER_MODE: 2
+  response: 7E80462207E02

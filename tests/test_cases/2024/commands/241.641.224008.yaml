@@ -1,0 +1,5 @@
+command_id: 241.641.224008
+test_cases:
+- expected_values:
+    TERRAIN_TID_RL: 3231920338
+  response: 64107624008C0A330D2

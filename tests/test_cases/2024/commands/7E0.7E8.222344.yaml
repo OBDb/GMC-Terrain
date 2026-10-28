@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.222344
+test_cases:
+- expected_values:
+    TERRAIN_EOP_ABS: 284
+  response: '7E80462234447'
+- expected_values:
+    TERRAIN_EOP_ABS: 288
+  response: '7E80462234448'
+- expected_values:
+    TERRAIN_EOP_ABS: 296
+  response: 7E8046223444A
+- expected_values:
+    TERRAIN_EOP_ABS: 300
+  response: 7E8046223444B
+- expected_values:
+    TERRAIN_EOP_ABS: 304
+  response: 7E8046223444C
+- expected_values:
+    TERRAIN_EOP_ABS: 308
+  response: 7E8046223444D
+- expected_values:
+    TERRAIN_EOP_ABS: 324
+  response: '7E80462234451'

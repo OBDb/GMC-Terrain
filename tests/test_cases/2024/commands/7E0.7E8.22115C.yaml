@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22115C
+test_cases:
+- expected_values:
+    TERRAIN_EOP_2: 26.4
+  response: 7E80462115C50
+- expected_values:
+    TERRAIN_EOP_2: 27.6
+  response: 7E80462115C52
+- expected_values:
+    TERRAIN_EOP_2: 28.2
+  response: 7E80462115C53
+- expected_values:
+    TERRAIN_EOP_2: 29.4
+  response: 7E80462115C55
+- expected_values:
+    TERRAIN_EOP_2: 30.6
+  response: 7E80462115C57
+- expected_values:
+    TERRAIN_EOP_2: 31.8
+  response: 7E80462115C59
