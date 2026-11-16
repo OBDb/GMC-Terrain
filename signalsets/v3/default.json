@@ -401,7 +401,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
-    {"id": "TERRAIN_BP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual"}
+    {"id": "TERRAIN_BP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual", "suggestedMetric": "boostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "232C"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
@@ -633,7 +633,7 @@
   ]},
 { "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
-    {"id": "TERRAIN_BOOST_P_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilopascal" }, "name": "Boost pressure, actual"}
+    {"id": "TERRAIN_BOOST_P_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilopascal" }, "name": "Boost pressure, actual", "suggestedMetric": "boostPressure"}
   ]},
 { "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F3"}, "freq": 1, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
@@ -724,13 +724,13 @@
   "signals": [
     {"id": "TERRAIN_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 720.8739, "min": -720.896, "mul": 220, "div": 10000, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "DA28", "pri": "14", "fcm1": true, "cmd": {"22": "4C2F"}, "freq": 0.1, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA28", "pri": "14", "fcm1": true, "cmd": {"22": "4C2F"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
-    {"id": "TERRAIN_LAT_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Lateral acceleration"}
+    {"id": "TERRAIN_LAT_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Lateral acceleration", "suggestedMetric": "lateralAcceleration"}
   ]},
-{ "hdr": "DA28", "pri": "14", "fcm1": true, "cmd": {"22": "4C30"}, "freq": 0.1, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA28", "pri": "14", "fcm1": true, "cmd": {"22": "4C30"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
-    {"id": "TERRAIN_LNG_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Longitudinal acceleration"}
+    {"id": "TERRAIN_LNG_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Longitudinal acceleration", "suggestedMetric": "longitudinalAcceleration"}
   ]},
 { "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7A"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
