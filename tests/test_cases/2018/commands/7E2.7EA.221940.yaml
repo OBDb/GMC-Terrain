@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221940
+test_cases:
+- expected_values:
+    TERRAIN_ATF_T: 51
+  response: 7EA046219405B
+- expected_values:
+    TERRAIN_ATF_T: 52
+  response: 7EA046219405C
+- expected_values:
+    TERRAIN_ATF_T: 53
+  response: 7EA046219405D

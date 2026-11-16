@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221144
+test_cases:
+- expected_values:
+    TERRAIN_CABIN_AC_HIGH_SIDE_V: 0.88
+  response: 7E8046211442C
+- expected_values:
+    TERRAIN_CABIN_AC_HIGH_SIDE_V: 0.92
+  response: 7E8046211442E
+- expected_values:
+    TERRAIN_CABIN_AC_HIGH_SIDE_V: 1
+  response: '7E80462114432'
+- expected_values:
+    TERRAIN_CABIN_AC_HIGH_SIDE_V: 1.14
+  response: '7E80462114439'
+- expected_values:
+    TERRAIN_CABIN_AC_HIGH_SIDE_V: 1.22
+  response: 7E8046211443D

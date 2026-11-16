@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_FLI: 20.39216
+  response: 7E80462002F34
+- expected_values:
+    TERRAIN_FLI: 29.41176
+  response: 7E80462002F4B
+- expected_values:
+    TERRAIN_FLI: 32.15686
+  response: 7E80462002F52

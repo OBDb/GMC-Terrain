@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    TERRAIN_TRANS_ISS: 0
+  response: 7EA056219410000
+- expected_values:
+    TERRAIN_TRANS_ISS: 1604
+  response: 7EA056219411910
+- expected_values:
+    TERRAIN_TRANS_ISS: 2686
+  response: 7EA0562194129F8

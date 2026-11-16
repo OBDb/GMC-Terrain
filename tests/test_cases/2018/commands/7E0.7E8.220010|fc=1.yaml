@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_MAF: 3.16
+  response: 7E805620010013C
+- expected_values:
+    TERRAIN_MAF: 8.93
+  response: 7E805620010037D
+- expected_values:
+    TERRAIN_MAF: 9.02
+  response: '7E8056200100386'

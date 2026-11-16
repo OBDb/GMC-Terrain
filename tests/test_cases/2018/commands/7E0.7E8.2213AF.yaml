@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2213AF
+test_cases:
+- expected_values:
+    TERRAIN_COOLING_FAN_MOTOR_CMD: 6.66667
+  response: 7E8046213AF11
+- expected_values:
+    TERRAIN_COOLING_FAN_MOTOR_CMD: 7.45098
+  response: 7E8046213AF13
+- expected_values:
+    TERRAIN_COOLING_FAN_MOTOR_CMD: 7.84314
+  response: 7E8046213AF14
+- expected_values:
+    TERRAIN_COOLING_FAN_MOTOR_CMD: 8.62745
+  response: 7E8046213AF16
