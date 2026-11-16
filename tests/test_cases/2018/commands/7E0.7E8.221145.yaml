@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    TERRAIN_HEATED_OXYGEN_SENS: 15
+  response: 7E8046211450F
+- expected_values:
+    TERRAIN_HEATED_OXYGEN_SENS: 31
+  response: 7E8046211451F
+- expected_values:
+    TERRAIN_HEATED_OXYGEN_SENS: 32
+  response: '7E80462114520'
+- expected_values:
+    TERRAIN_HEATED_OXYGEN_SENS: 39
+  response: '7E80462114527'
+- expected_values:
+    TERRAIN_HEATED_OXYGEN_SENS: 185
+  response: 7E804621145B9

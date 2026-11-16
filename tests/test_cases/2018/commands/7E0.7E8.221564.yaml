@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221564
+test_cases:
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 64.64
+  response: '7E80462156420'
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 68.68
+  response: '7E80462156422'
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 74.74
+  response: '7E80462156425'
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 90.9
+  response: 7E8046215642D
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 92.92
+  response: 7E8046215642E
+- expected_values:
+    TERRAIN_AC_HIGH_SIDE_P: 101
+  response: '7E80462156432'

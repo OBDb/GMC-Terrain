@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221B30|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_CURRENT_GEAR: -1
+  response: 7EA04621B3002
+- expected_values:
+    TERRAIN_CURRENT_GEAR: 1
+  response: 7EA04621B3004
+- expected_values:
+    TERRAIN_CURRENT_GEAR: 7
+  response: 7EA04621B300A

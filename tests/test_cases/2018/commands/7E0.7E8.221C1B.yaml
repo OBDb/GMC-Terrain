@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221C1B
+test_cases:
+- expected_values:
+    TERRAIN_EOP_CALC: 196
+  response: 7E804621C1B31
+- expected_values:
+    TERRAIN_EOP_CALC: 200
+  response: 7E804621C1B32
+- expected_values:
+    TERRAIN_EOP_CALC: 208
+  response: 7E804621C1B34
+- expected_values:
+    TERRAIN_EOP_CALC: 216
+  response: 7E804621C1B36
+- expected_values:
+    TERRAIN_EOP_CALC: 220
+  response: 7E804621C1B37

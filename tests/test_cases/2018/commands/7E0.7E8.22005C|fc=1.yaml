@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22005C|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_EOT: 81
+  response: 7E80462005C79
+- expected_values:
+    TERRAIN_EOT: 82
+  response: 7E80462005C7A
+- expected_values:
+    TERRAIN_EOT: 83
+  response: 7E80462005C7B

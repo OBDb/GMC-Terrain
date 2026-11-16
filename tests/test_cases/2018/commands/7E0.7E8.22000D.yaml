@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    TERRAIN_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    TERRAIN_VSS: 10
+  response: 7E80462000D0A
+- expected_values:
+    TERRAIN_VSS: 43
+  response: 7E80462000D2B
+- expected_values:
+    TERRAIN_VSS: 48
+  response: 7E80462000D30

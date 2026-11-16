@@ -1,0 +1,11 @@
+command_id: 7E0.2211A1
+test_cases:
+- expected_values:
+    TERRAIN_RUNTM: 460
+  response: 7E8056211A101CC
+- expected_values:
+    TERRAIN_RUNTM: 530
+  response: 7E8056211A10212
+- expected_values:
+    TERRAIN_RUNTM: 581
+  response: 7E8056211A10245

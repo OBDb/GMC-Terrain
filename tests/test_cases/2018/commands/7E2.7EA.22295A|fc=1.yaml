@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.22295A|fc=1
+test_cases:
+- expected_values:
+    TERRAIN_TF_T_FLTED: 51
+  response: 7EA0462295A5B
+- expected_values:
+    TERRAIN_TF_T_FLTED: 52
+  response: 7EA0462295A5C
+- expected_values:
+    TERRAIN_TF_T_FLTED: 53
+  response: 7EA0462295A5D
